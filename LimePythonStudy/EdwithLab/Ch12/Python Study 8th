@@ -1,0 +1,141 @@
+파이썬 스터디 8일차 예습
+
+Chapter 12 : HTTP
+
+파트 1. 소켓 모듈을 통한 네트워크 연결
+
+Introduction to Networking
+
+소켓 : 네트워크를 연결해주는 망
+포트 넘버 : 기능에 따라 구분 
+
+import socket
+> 소켓 사용 패키지
+
+my_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+> 소켓 객체의 생성
+
+my_socket( ( ‘data.pr4e.org’, 80 ) )
+> 소켓 객체를 통한 연결
+
+
+파트 2. HTTP 를 이용해 서버에 요청 보내기
+
+소켓 작동 -> 요청 보내기
+> 간단한 개념 설명들. 내용 없음
+
+
+파트 3. 파이썬을 이용해 웹 데이터 읽어오기
+
+import socket
+mysock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+mysock.connect((‘data.pr4e.org’, 80))
+> 소켓 생성 과정
+
+cmd = ‘GET http://data.pr4e.org/romeo.txt HTTP/1.0\n\n’.encode()
+mysock.send(cmd)
+> 웹 데이터 읽기 명령문 저장 및 실행
+
+while True:
+	data = mysock.recv(512)
+	if (len(data) < 1 ) :
+		break
+	print(data.decode())
+> 소켓을 통해 512문자를 전달받아 data에 저장.
+> 만약 data 가 비었다면, 종료. 비지 않았다면 출력 후 다시 전달
+
+mysock.close
+> 소켓 연결 종료
+
+
+궁금한점
+> mysock.recv( n ) 의 의미를 알고싶다
+> recv 메소드는 n 개의 문자열을 받아오는 것 뿐인가? 
+> 왜 하필 512 개로 작성했을까? 2^9 가 의미있는 숫자인가?
+
+>> 한 번 1024로 바꾸고 시행했더니, 한 줄에 더 많은 데이터를 읽어온다.
+>> 즉, 한 번에 512 캐릭터 를 여러번 읽어오는 것으로 보인다.
+
+
+파트 3-2 : 소켓 실습
+
+encode 의 기능 : 파이썬은 유니코드, HTTP 는 UTF-8 을 사용
+이를 해결하기 위해 문자열 인코딩을 변환하여 주는 것
+
+> 그 외의 사항은 파트 3과 동일한 내용이다
+
+
+파트 4 : 문자의 표현과 인코딩 / 디코딩
+
+ASCII : 아스키코드
+> 128개의 라틴어 문자 집합
+> 하나의 문자당 8비트 = 1바이트를 차지함
+> 각각의 문자가 숫자와 대응된다
+> 라틴어만 표현 가능하므로, 다른 문자열의 표현이 가능한 방법의 개발이 필요해졌다
+
+UNICODE : 유니코드
+> 아스키코드의 문제점을 개선. 수많은 문자의 표현이 가능.
+> UTF 라고 불리며, 이는 Unicode Transformation Format의 약자이다.
+> UTF - 32 는 한 글자당 4바이트를 할당하며, 문제점은 전송 시 너무 많은 자원을 필요로 한다는 것이다.
+> 이를 압축한 것이 UTF-16 혹은 UTF-8이며, UTF-8이 인터넷에서 사용하기 가장 적합하다.
+> UTF-8은 동적으로 1~4 바이트를 할당한다.
+> 이로 인해 인터넷 자료의 대부분 인코딩은 UTF-8 을 사용하게 된다.
+
+파이썬의 문자열
+> 파이썬 2에서는 문자를 ASCII 코드로 나타낸다.
+> 파이썬 3에서는 문자열을 유니코드로 나타낸다.
+> 즉, 파이썬 2와 3에서 문자열의 타입을 확인하면, str 과 
+>> 약간 이해가 안된다!!!
+
+소켓의 인코딩 / 디코딩
+> 데이터를 외부로 보내거나 받을 때, 인코딩 / 디코딩을 하는 것은 소켓의 역할이다.
+
+
+실습
+> 한글 사용시 에러!!
+# -*- coding: utf-8 -*-
+> 주석을 이용해 기본적으로 utf-8 을 사용함을 명시
+
+
+파트 5 : urllib 를 이용한 웹 데이터 읽기
+
+import urllib.request, urllib.parse, urllib.error
+
+fhand = urllib.request.urlopen(‘http://http://data.pr4e.org/romeo.txt')
+for line in fhand:
+	print(line.decode().strip())
+
+> 에러 발생!! python 2 와 3 의 차이 문제로 보임. 
+> 해결! atom 이 기본적으로 python 2 를 사용하도록 설정.
+> terminal 에서 python 3 로 접속하여 코드를 작성하면 정상적으로 코드가 작동함!!
+
+urllib.request.urlopen
+> 소켓이 하는 일을 대신 해 준다!
+> 실제 내용만 나오게 된다
+
+실습 내용 : 단어를 찾아, 단어별 개수를 세는 것
+
+for line in fhand :
+	words = line.decode().split()
+
+> 한 줄을 읽어와 해당 줄을 띄어쓰기 단위로 나눈 리스트를 words 에 저장한다.
+
+	for word in words:
+		counts[word] = counts.get(word, 0) + 1
+
+> words 의 값들을 word 로 하나씩 뽑아와, counts 딕셔너리에 개수를 센다.
+> get 은 딕셔너리에 대한 메소드로, 해당 word 에 대한 value 인 개수를 가져온다.
+> word, 0 으로 작성한 이유는, 만약 value 가 없을 경우 default 값을 0 으로 지정한다는 의미를 가진다.
+> 만약 value가 존재한다면, 해당 밸류에 대해 +1 한 값을 value 로 다시 저장하는 것이다.
+
+최종적으로 counts 리스트에는 각각의 단어와 해당 단어의 빈도가 key - value 로 저장된다.
+
+
+파트 6 : BeautifulSoup 를 이용한 웹 데이터 스크래핑
+
+스크래핑을 허용하지 않는 사이트가 존재할 수 있다! 주의할 것
+
+BeautifulSoup : 웹페이지의 다양한 문제를 해결해주는 패키지
+
+BS 는 하나의 객체를 가지며, 해당 객체에 대한 메소드가 존재한다.
+이 메소드를 이용하여 특정 태그에 손쉽게 접근할 수 있다!
