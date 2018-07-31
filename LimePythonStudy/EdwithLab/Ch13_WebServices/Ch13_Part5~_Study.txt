@@ -1,0 +1,56 @@
+Ch13 
+
+Part 5 : SOA
+
+SOA : Service Oriented Architecture 
+> 소프트웨어 기능을 서비스 단위로 파악 / 각각의 서비스를 네트워크에 연결
+> 전체 시스템을 네트워크를 통해 구성
+
+Part 6 : API
+
+API : Application Program Interface
+
+API 를 통한 데이터의 수집 방법에 대해 알아보자
+
+Part 7 : Twitter API
+
+API 는 데이터 호출 제한을 걸어놓을 때가 많다.
+> API의 관리자는 누가, 얼마나 자주 사용하는지 또한 알고있다
+
+트위터 API : 무료 공용 API 였지만, 이를 유료로 전환하였다.
+> 스크린 개수 / 트윗의 개수 / 트윗의 내용 등을 알려준다.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
