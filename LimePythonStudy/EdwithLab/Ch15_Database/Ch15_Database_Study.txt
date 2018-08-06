@@ -59,7 +59,80 @@ SELECT * FROM Users WHERE email = 'abc'
 
 SELECT * FROM Users ORDER BY email ( DESC )
 > email 을 순차적으로 오름차순 정렬하여 모두 출력하라 ( 혹은 내림차순 )
-t
+
+
+Part 3 : Complex Models
+
+데이터베이스 디자인
+> 원하는 데이터를, 효과적으로 나누어 담아야 한다
+
+음악 관리 프로그램의 예시
+> Track / Len / Artist / Album / Genre / Rating / Count
+> 팁 : 컬럼을 살펴볼 때, 반복되어 나오는 값들을 주의해서 보라
+
+> 1. User 기준에서 사용 목적을 생각하는 것이 첫번째이다.
+> 2. Track / Len / Rating / Count 가 기본이 된다.
+> 3. Track 묶음은 Album 에 속하고, Album 은 Artist 에 속한다
+> 4. 마지막으로 각 Track 묶음들은 Genre 에 속한다
+
+
+Part 4 : Relational Database
+
+일단 음악 테이블에서는 id 가 key 가 된다
+각각의 Artist 는 id 값을 갖는다
+다른 테이블에서 artist_id 로 쓰여진다
+
+Primary key : 의미없는, 구분되는 유일한 값
+Logical key : 의미를 갖는 변화 가능한 값
+Foreign key : 다른 테이블에서 사용되는 PK
+
+Artist : id* / name
+Album : id* / title / artist_id**
+
+
+Part 5 : Foreign Keys
+
+Track / Genre / Album / Artist
+> 크게 네 개의 테이블로 구성된다
+
+Album : id* / title
+Track : id* / title / rating / len / count / album_id** / genre_id**
+Album : id* / title / artist_id**
+Genre : id* / name
+
+Album 과 Track 을 잇는 album_id 의 관계를 어떻게 표현하는가
+> Foreign Key 형식을 이용하여 표현한다.
+
+SQLite 를 이용하여 테이블 생성하기
+
+CREATE TABLE 'Artist'(
+    'id' INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL UNIQUE
+    'name' TEXT )
+> id 를 프라이머리키이며, 낫널, 유니크, 자동증가로 생성한다.
+> Artist name 을 name 컬럼에 텍스트로 생성한다
+
+CREATE TABLE 'Album'(
+    'id' INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT UNIQUE,
+    'artist_id' INTEGER,
+    'title' TEXT
+    )
+> 앨범 테이블의 생성
+
+CREATE TABLE Track(
+    id INTEGER NOT NULL PRIMARY KEY AU~
+    title
+    album_id
+    genre_id
+    len INTEGER, rating INTEGER, count INTEGER)
+
+> AUTOINCREMENT 명령어는 숫자를 자동으로 증가하며 넣어준다
+
+Artist / Genre -> Album -> Track 순서로 생성해야 한다.
+왜냐하면 뒤로 갈수록 앞의 테이블에 종속적이기 때문이다
+
+
+Part 6 : JOIN
+
 
 
 
