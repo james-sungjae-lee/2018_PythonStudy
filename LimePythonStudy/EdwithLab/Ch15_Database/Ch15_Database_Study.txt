@@ -95,7 +95,7 @@ Part 5 : Foreign Keys
 Track / Genre / Album / Artist
 > 크게 네 개의 테이블로 구성된다
 
-Album : id* / title
+Artist : id* / title
 Track : id* / title / rating / len / count / album_id** / genre_id**
 Album : id* / title / artist_id**
 Genre : id* / name
@@ -132,6 +132,46 @@ Artist / Genre -> Album -> Track 순서로 생성해야 한다.
 
 
 Part 6 : JOIN
+
+select Album.title, Artist.name from Album join Artist
+    on Album.artist_id = Artist.id
+> Album 테이블의 artist_id 와 Artist 테이블의 id 값이 동일하도록 이어붙인다
+> 하나의 테이블이 만들어지면, 해당 테이블에서 Album 의 title 과 Artist 의 이름을 꺼낸다
+
+ON 문장을 사용하지 않는다면, Cartisian Product 가 이루어진다
+
+select ~ from ~ join ~ on ~
+> 여러 개의 테이블을 한 번에 Join 할 수 있다
+
+
+Part 7 : Many to Many Relationship
+
+다대다 관계에서는 연결 테이블이 새롭게 하나 생성된다.
+> 두 개의 Foreign 키가 존재하게 된다
+> 예를 들어 학생과 강의의 관계는 다대다 관계이다.
+> 이를 표현하기 위해 강의 등록 테이블을 새롭게 생성한다.
+
+강의 등록 관계에서의 표현
+> 사용자와 강의를 함께 표현하기 위해서는 사용자 / 강의 / 등록 테이블을
+> 한꺼번에 JOIN 하여 값을 뽑아내야 한다.
+
+데이터의 규모가 커질수록, 반드시 정리하여 데이터베이스로 만들어야 한다
+> 속도가 훨씬 빠르기 때문이다
+
+
+Part 8 : 최종 실습
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

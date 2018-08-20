@@ -1,0 +1,3294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2018-08-06T10:26:04Z</date>
+	<key>Application Version</key><string>12.8.0.150</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/sungjae/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>E0A3C92F03208F51</string>
+	<key>Tracks</key>
+	<dict>
+		<key>351</key>
+		<dict>
+			<key>Track ID</key><integer>351</integer>
+			<key>Name</key><string>폰서트</string>
+			<key>Artist</key><string>10cm</string>
+			<key>Album Artist</key><string>10cm</string>
+			<key>Album</key><string>4.0</string>
+			<key>Genre</key><string>Singer/Songwriter</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>7258850</integer>
+			<key>Total Time</key><integer>197504</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2018-07-25T23:20:50Z</date>
+			<key>Date Added</key><date>2018-07-25T23:20:50Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3616174257</integer>
+			<key>Play Date UTC</key><date>2018-08-03T11:50:57Z</date>
+			<key>Release Date</key><date>2017-09-01T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>4.0</string>
+			<key>Sort Artist</key><string>십센치</string>
+			<key>Sort Name</key><string>폰서트</string>
+			<key>Persistent ID</key><string>C36FDFAE6160A272</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>353</key>
+		<dict>
+			<key>Track ID</key><integer>353</integer>
+			<key>Name</key><string>Stalker</string>
+			<key>Artist</key><string>10cm</string>
+			<key>Album Artist</key><string>10cm</string>
+			<key>Composer</key><string>10cm</string>
+			<key>Album</key><string>3.0</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>9015788</integer>
+			<key>Total Time</key><integer>252801</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2018-07-25T23:20:52Z</date>
+			<key>Date Added</key><date>2018-07-25T23:20:52Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3615721465</integer>
+			<key>Play Date UTC</key><date>2018-07-29T06:04:25Z</date>
+			<key>Release Date</key><date>2014-11-19T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>3.0</string>
+			<key>Sort Artist</key><string>십센치</string>
+			<key>Sort Name</key><string>Stalker</string>
+			<key>Persistent ID</key><string>AF5B8EBE93CA38E8</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>355</key>
+		<dict>
+			<key>Track ID</key><integer>355</integer>
+			<key>Name</key><string>사랑은 은하수 다방에서</string>
+			<key>Artist</key><string>10cm</string>
+			<key>Album Artist</key><string>10cm</string>
+			<key>Album</key><string>1.0</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>6437459</integer>
+			<key>Total Time</key><integer>172760</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2018-07-25T23:20:53Z</date>
+			<key>Date Added</key><date>2018-07-25T23:20:53Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3616258294</integer>
+			<key>Play Date UTC</key><date>2018-08-04T11:11:34Z</date>
+			<key>Release Date</key><date>2011-02-10T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>1.0</string>
+			<key>Sort Artist</key><string>십센치</string>
+			<key>Sort Name</key><string>사랑은 은하수 다방에서</string>
+			<key>Persistent ID</key><string>7E07EC1506A6231A</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>357</key>
+		<dict>
+			<key>Track ID</key><integer>357</integer>
+			<key>Name</key><string>Pet</string>
+			<key>Artist</key><string>10cm</string>
+			<key>Album Artist</key><string>10cm</string>
+			<key>Album</key><string>4.0</string>
+			<key>Genre</key><string>Singer/Songwriter</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>7032197</integer>
+			<key>Total Time</key><integer>190592</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2018-07-25T23:20:55Z</date>
+			<key>Date Added</key><date>2018-07-25T23:20:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3616174059</integer>
+			<key>Play Date UTC</key><date>2018-08-03T11:47:39Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-07-31T23:36:53Z</date>
+			<key>Release Date</key><date>2017-09-01T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>4.0</string>
+			<key>Sort Artist</key><string>십센치</string>
+			<key>Sort Name</key><string>Pet</string>
+			<key>Persistent ID</key><string>B800ADA9997C626B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>359</key>
+		<dict>
+			<key>Track ID</key><integer>359</integer>
+			<key>Name</key><string>Sseudam Sseudam (Caress)</string>
+			<key>Artist</key><string>10cm</string>
+			<key>Album Artist</key><string>10cm</string>
+			<key>Composer</key><string>10cm</string>
+			<key>Album</key><string>3.0</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>8535763</integer>
+			<key>Total Time</key><integer>241078</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2018-07-25T23:20:58Z</date>
+			<key>Date Added</key><date>2018-07-25T23:20:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3616222536</integer>
+			<key>Play Date UTC</key><date>2018-08-04T01:15:36Z</date>
+			<key>Release Date</key><date>2014-11-19T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>3.0</string>
+			<key>Sort Artist</key><string>십센치</string>
+			<key>Sort Name</key><string>Sseudam Sseudam (Caress)</string>
+			<key>Persistent ID</key><string>11695339E7280981</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>361</key>
+		<dict>
+			<key>Track ID</key><integer>361</integer>
+			<key>Name</key><string>Fine Thank You and You</string>
+			<key>Artist</key><string>10cm</string>
+			<key>Album Artist</key><string>10cm</string>
+			<key>Composer</key><string>10cm</string>
+			<key>Album</key><string>2.0</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>7772133</integer>
+			<key>Total Time</key><integer>220600</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2018-07-25T23:26:57Z</date>
+			<key>Date Added</key><date>2018-07-25T23:26:57Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3616221660</integer>
+			<key>Play Date UTC</key><date>2018-08-04T01:01:00Z</date>
+			<key>Release Date</key><date>2012-10-10T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>2.0</string>
+			<key>Sort Artist</key><string>십센치</string>
+			<key>Sort Name</key><string>Fine Thank You and You</string>
+			<key>Persistent ID</key><string>F5A97E3DFE8455AB</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>363</key>
+		<dict>
+			<key>Track ID</key><integer>363</integer>
+			<key>Name</key><string>Help</string>
+			<key>Artist</key><string>10cm</string>
+			<key>Album Artist</key><string>10cm</string>
+			<key>Album</key><string>Help - Single</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>10285440</integer>
+			<key>Total Time</key><integer>289990</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2018-07-25T23:27:07Z</date>
+			<key>Date Added</key><date>2018-07-25T23:27:07Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3615722431</integer>
+			<key>Play Date UTC</key><date>2018-07-29T06:20:31Z</date>
+			<key>Release Date</key><date>2017-08-28T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Help - Single</string>
+			<key>Sort Artist</key><string>십센치</string>
+			<key>Sort Name</key><string>Help</string>
+			<key>Persistent ID</key><string>BA2FB4A4EC3540D9</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>365</key>
+		<dict>
+			<key>Track ID</key><integer>365</integer>
+			<key>Name</key><string>니가 참 좋아</string>
+			<key>Artist</key><string>10cm</string>
+			<key>Album Artist</key><string>10cm</string>
+			<key>Album</key><string>니가 참 좋아 - Single</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>7166173</integer>
+			<key>Total Time</key><integer>200042</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2018-07-25T23:27:09Z</date>
+			<key>Date Added</key><date>2018-07-25T23:27:09Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3616345222</integer>
+			<key>Play Date UTC</key><date>2018-08-05T11:20:22Z</date>
+			<key>Release Date</key><date>2016-06-16T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>니가 참 좋아 - Single</string>
+			<key>Sort Artist</key><string>십센치</string>
+			<key>Sort Name</key><string>니가 참 좋아</string>
+			<key>Persistent ID</key><string>0C4367EDC1AE4D83</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>367</key>
+		<dict>
+			<key>Track ID</key><integer>367</integer>
+			<key>Name</key><string>Undercover Lovers</string>
+			<key>Artist</key><string>10cm</string>
+			<key>Album Artist</key><string>10cm</string>
+			<key>Composer</key><string>10cm</string>
+			<key>Album</key><string>3.1 - Single</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>8462300</integer>
+			<key>Total Time</key><integer>239044</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2018-07-25T23:27:20Z</date>
+			<key>Date Added</key><date>2018-07-25T23:27:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3616163010</integer>
+			<key>Play Date UTC</key><date>2018-08-03T08:43:30Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-07-29T08:17:07Z</date>
+			<key>Release Date</key><date>2015-10-10T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>3.1 - Single</string>
+			<key>Sort Artist</key><string>십센치</string>
+			<key>Sort Name</key><string>Undercover Lovers</string>
+			<key>Persistent ID</key><string>094F40AB4488B97F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>369</key>
+		<dict>
+			<key>Track ID</key><integer>369</integer>
+			<key>Name</key><string>마네퀸 (feat. Beenzino &#38; 수란)</string>
+			<key>Artist</key><string>프라이머리</string>
+			<key>Album Artist</key><string>프라이머리</string>
+			<key>Album</key><string>2</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>8281246</integer>
+			<key>Total Time</key><integer>233376</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2018-07-26T02:39:49Z</date>
+			<key>Date Added</key><date>2018-07-26T02:39:49Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3616070502</integer>
+			<key>Play Date UTC</key><date>2018-08-02T07:01:42Z</date>
+			<key>Release Date</key><date>2015-06-05T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>2</string>
+			<key>Sort Artist</key><string>프라이머리</string>
+			<key>Sort Name</key><string>마네퀸 (feat. Beenzino &#38; 수란)</string>
+			<key>Persistent ID</key><string>CA0DCA8A83A083ED</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>371</key>
+		<dict>
+			<key>Track ID</key><integer>371</integer>
+			<key>Name</key><string>러버 (feat. 오혁)</string>
+			<key>Artist</key><string>프라이머리</string>
+			<key>Album Artist</key><string>프라이머리</string>
+			<key>Album</key><string>2</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>7409155</integer>
+			<key>Total Time</key><integer>207688</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2018-07-26T02:39:49Z</date>
+			<key>Date Added</key><date>2018-07-26T02:39:49Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3616223232</integer>
+			<key>Play Date UTC</key><date>2018-08-04T01:27:12Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-08-03T00:10:39Z</date>
+			<key>Release Date</key><date>2015-08-12T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>2</string>
+			<key>Sort Artist</key><string>프라이머리</string>
+			<key>Sort Name</key><string>러버 (feat. 오혁)</string>
+			<key>Persistent ID</key><string>41C6D36E5578DC03</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>373</key>
+		<dict>
+			<key>Track ID</key><integer>373</integer>
+			<key>Name</key><string>마일리지 (feat. 팔로알토 &#38; 화사)</string>
+			<key>Artist</key><string>프라이머리</string>
+			<key>Album Artist</key><string>프라이머리</string>
+			<key>Album</key><string>2</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>7989004</integer>
+			<key>Total Time</key><integer>225801</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2018-07-26T02:39:49Z</date>
+			<key>Date Added</key><date>2018-07-26T02:39:49Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3615722656</integer>
+			<key>Play Date UTC</key><date>2018-07-29T06:24:16Z</date>
+			<key>Release Date</key><date>2015-07-24T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>2</string>
+			<key>Sort Artist</key><string>프라이머리</string>
+			<key>Sort Name</key><string>마일리지 (feat. 팔로알토 &#38; 화사)</string>
+			<key>Persistent ID</key><string>DE9CC2A9FF7D1436</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>375</key>
+		<dict>
+			<key>Track ID</key><integer>375</integer>
+			<key>Name</key><string>그녀는 (feat. Jung In, CHOIZA, Hangzoo &#38; Geegooin)</string>
+			<key>Artist</key><string>프라이머리</string>
+			<key>Album Artist</key><string>프라이머리</string>
+			<key>Album</key><string>2</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>9338905</integer>
+			<key>Total Time</key><integer>265664</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2018-07-26T02:39:49Z</date>
+			<key>Date Added</key><date>2018-07-26T02:39:49Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3615712442</integer>
+			<key>Play Date UTC</key><date>2018-07-29T03:34:02Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-07-29T13:14:09Z</date>
+			<key>Release Date</key><date>2015-06-05T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>2</string>
+			<key>Sort Artist</key><string>프라이머리</string>
+			<key>Sort Name</key><string>그녀는 (feat. Jung In, CHOIZA, Hangzoo &#38; Geegooin)</string>
+			<key>Persistent ID</key><string>2BEBEBA4C6F358FD</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>377</key>
+		<dict>
+			<key>Track ID</key><integer>377</integer>
+			<key>Name</key><string>골드핑거 (feat. 수란)</string>
+			<key>Artist</key><string>프라이머리</string>
+			<key>Album Artist</key><string>프라이머리</string>
+			<key>Album</key><string>2</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>7837933</integer>
+			<key>Total Time</key><integer>220541</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2018-07-26T02:39:49Z</date>
+			<key>Date Added</key><date>2018-07-26T02:39:49Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3616069598</integer>
+			<key>Play Date UTC</key><date>2018-08-02T06:46:38Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-08-05T10:50:50Z</date>
+			<key>Release Date</key><date>2015-08-12T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>2</string>
+			<key>Sort Artist</key><string>프라이머리</string>
+			<key>Sort Name</key><string>골드핑거 (feat. 수란)</string>
+			<key>Persistent ID</key><string>11296C452FD09170</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>379</key>
+		<dict>
+			<key>Track ID</key><integer>379</integer>
+			<key>Name</key><string>Way Back Home</string>
+			<key>Artist</key><string>SHAUN</string>
+			<key>Album Artist</key><string>SHAUN</string>
+			<key>Composer</key><string>SHAUN, JQ &#38; Lee Ji Hye</string>
+			<key>Album</key><string>Take - EP</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>8051152</integer>
+			<key>Total Time</key><integer>214137</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2018-07-27T15:40:30Z</date>
+			<key>Date Added</key><date>2018-07-27T15:40:30Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3616389841</integer>
+			<key>Play Date UTC</key><date>2018-08-05T23:44:01Z</date>
+			<key>Release Date</key><date>2018-06-27T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Take - EP</string>
+			<key>Sort Artist</key><string>SHAUN</string>
+			<key>Sort Name</key><string>Way Back Home</string>
+			<key>Persistent ID</key><string>B697A18F9986D898</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>381</key>
+		<dict>
+			<key>Track ID</key><integer>381</integer>
+			<key>Name</key><string>OSAKA (feat. ZICO) [From GRADATION, Vol. 4]</string>
+			<key>Artist</key><string>엘로</string>
+			<key>Album Artist</key><string>엘로</string>
+			<key>Album</key><string>OSAKA (feat. ZICO) [From GRADATION, Vol. 4] - Single</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>7455918</integer>
+			<key>Total Time</key><integer>205160</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2018-07-28T12:27:02Z</date>
+			<key>Date Added</key><date>2018-07-28T12:27:02Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3616221440</integer>
+			<key>Play Date UTC</key><date>2018-08-04T00:57:20Z</date>
+			<key>Release Date</key><date>2018-05-29T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>OSAKA (feat. ZICO) [From GRADATION, Vol. 4] - Single</string>
+			<key>Sort Artist</key><string>엘로</string>
+			<key>Sort Name</key><string>OSAKA (feat. ZICO) [From GRADATION, Vol. 4]</string>
+			<key>Persistent ID</key><string>9751EAFD65B7FBE8</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>383</key>
+		<dict>
+			<key>Track ID</key><integer>383</integer>
+			<key>Name</key><string>Cereal (feat. ZICO)</string>
+			<key>Artist</key><string>Crush</string>
+			<key>Album Artist</key><string>Crush</string>
+			<key>Album</key><string>wonderlost - EP</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>7714643</integer>
+			<key>Total Time</key><integer>218097</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2018-07-28T12:27:05Z</date>
+			<key>Date Added</key><date>2018-07-28T12:27:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3616173479</integer>
+			<key>Play Date UTC</key><date>2018-08-03T11:37:59Z</date>
+			<key>Release Date</key><date>2018-07-13T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>wonderlost - EP</string>
+			<key>Sort Artist</key><string>Crush</string>
+			<key>Sort Name</key><string>Cereal (feat. ZICO)</string>
+			<key>Persistent ID</key><string>7D50A7D449CFF417</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>385</key>
+		<dict>
+			<key>Track ID</key><integer>385</integer>
+			<key>Name</key><string>사랑이었다 (feat. 루나)</string>
+			<key>Artist</key><string>ZICO</string>
+			<key>Album Artist</key><string>ZICO</string>
+			<key>Album</key><string>Break Up 2 Make Up - Single</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>9726878</integer>
+			<key>Total Time</key><integer>269907</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2018-07-28T12:27:08Z</date>
+			<key>Date Added</key><date>2018-07-28T12:27:08Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3616219240</integer>
+			<key>Play Date UTC</key><date>2018-08-04T00:20:40Z</date>
+			<key>Release Date</key><date>2016-01-25T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Break Up 2 Make Up - Single</string>
+			<key>Sort Artist</key><string>ZICO</string>
+			<key>Sort Name</key><string>사랑이었다 (feat. 루나)</string>
+			<key>Persistent ID</key><string>69E93989C732A8BF</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>387</key>
+		<dict>
+			<key>Track ID</key><integer>387</integer>
+			<key>Name</key><string>오만과 편견 (feat. 수란)</string>
+			<key>Artist</key><string>ZICO</string>
+			<key>Album Artist</key><string>ZICO</string>
+			<key>Album</key><string>Gallery - Single</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>7481491</integer>
+			<key>Total Time</key><integer>208359</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2018-07-28T12:27:11Z</date>
+			<key>Date Added</key><date>2018-07-28T12:27:11Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3616223018</integer>
+			<key>Play Date UTC</key><date>2018-08-04T01:23:38Z</date>
+			<key>Release Date</key><date>2015-12-07T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Gallery - Single</string>
+			<key>Sort Artist</key><string>ZICO</string>
+			<key>Sort Name</key><string>오만과 편견 (feat. 수란)</string>
+			<key>Persistent ID</key><string>A87F68EBA8632EBB</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>389</key>
+		<dict>
+			<key>Track ID</key><integer>389</integer>
+			<key>Name</key><string>Donut (Feat. 박재범)</string>
+			<key>Artist</key><string>pH-1</string>
+			<key>Album Artist</key><string>pH-1</string>
+			<key>Album</key><string>The Island Kid - EP</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>7541885</integer>
+			<key>Total Time</key><integer>211481</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2018-07-28T12:28:54Z</date>
+			<key>Date Added</key><date>2018-07-28T12:28:54Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3616173863</integer>
+			<key>Play Date UTC</key><date>2018-08-03T11:44:23Z</date>
+			<key>Release Date</key><date>2017-10-19T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>The Island Kid - EP</string>
+			<key>Sort Artist</key><string>pH-1</string>
+			<key>Sort Name</key><string>Donut (Feat. 박재범)</string>
+			<key>Persistent ID</key><string>0D43EF34F23E0C95</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>391</key>
+		<dict>
+			<key>Track ID</key><integer>391</integer>
+			<key>Name</key><string>Penthouse (feat. Sik-K) [with APRO]</string>
+			<key>Artist</key><string>pH-1</string>
+			<key>Album Artist</key><string>pH-1</string>
+			<key>Album</key><string>Gatsby - Single</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>8193399</integer>
+			<key>Total Time</key><integer>230237</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2018-07-28T12:28:59Z</date>
+			<key>Date Added</key><date>2018-07-28T12:28:59Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3616222089</integer>
+			<key>Play Date UTC</key><date>2018-08-04T01:08:09Z</date>
+			<key>Release Date</key><date>2018-02-04T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Gatsby - Single</string>
+			<key>Sort Artist</key><string>pH-1</string>
+			<key>Sort Name</key><string>Penthouse (feat. Sik-K) [with APRO]</string>
+			<key>Persistent ID</key><string>6468CB0C4B89745F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>393</key>
+		<dict>
+			<key>Track ID</key><integer>393</integer>
+			<key>Name</key><string>Perfect</string>
+			<key>Artist</key><string>pH-1</string>
+			<key>Album Artist</key><string>pH-1</string>
+			<key>Album</key><string>Perfect - Single</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>7108863</integer>
+			<key>Total Time</key><integer>198375</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2018-07-28T12:29:03Z</date>
+			<key>Date Added</key><date>2018-07-28T12:29:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3616221859</integer>
+			<key>Play Date UTC</key><date>2018-08-04T01:04:19Z</date>
+			<key>Release Date</key><date>2016-11-29T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Perfect - Single</string>
+			<key>Sort Artist</key><string>pH-1</string>
+			<key>Sort Name</key><string>Perfect</string>
+			<key>Persistent ID</key><string>C65B75F46E24E411</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>395</key>
+		<dict>
+			<key>Track ID</key><integer>395</integer>
+			<key>Name</key><string>L.I.E (Prod. ZICO)</string>
+			<key>Artist</key><string>PENOMECO</string>
+			<key>Album Artist</key><string>PENOMECO</string>
+			<key>Album</key><string>L.I.E (Prod. ZICO) - Single</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>7382284</integer>
+			<key>Total Time</key><integer>206039</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2018-07-28T12:29:30Z</date>
+			<key>Date Added</key><date>2018-07-28T12:29:30Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3616222295</integer>
+			<key>Play Date UTC</key><date>2018-08-04T01:11:35Z</date>
+			<key>Release Date</key><date>2018-01-30T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>L.I.E (Prod. ZICO) - Single</string>
+			<key>Sort Artist</key><string>PENOMECO</string>
+			<key>Sort Name</key><string>L.I.E (Prod. ZICO)</string>
+			<key>Persistent ID</key><string>AB14DE3AD30DC6D0</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>397</key>
+		<dict>
+			<key>Track ID</key><integer>397</integer>
+			<key>Name</key><string>Good Morning (feat. Car, the garden)</string>
+			<key>Artist</key><string>PENOMECO</string>
+			<key>Album Artist</key><string>PENOMECO</string>
+			<key>Album</key><string>Good Morning (feat. Car, the garden) - Single</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>6546504</integer>
+			<key>Total Time</key><integer>177459</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2018-07-28T12:29:33Z</date>
+			<key>Date Added</key><date>2018-07-28T12:29:33Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3616258881</integer>
+			<key>Play Date UTC</key><date>2018-08-04T11:21:21Z</date>
+			<key>Release Date</key><date>2018-03-22T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Good Morning (feat. Car, the garden) - Single</string>
+			<key>Sort Artist</key><string>PENOMECO</string>
+			<key>Sort Name</key><string>Good Morning (feat. Car, the garden)</string>
+			<key>Persistent ID</key><string>E014532166768F04</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>399</key>
+		<dict>
+			<key>Track ID</key><integer>399</integer>
+			<key>Name</key><string>붕붕 (feat. Sik-K) [Prod. GroovyRoom]</string>
+			<key>Artist</key><string>김하온</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>고등래퍼2 Final</string>
+			<key>Genre</key><string>TV Soundtrack</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>8303192</integer>
+			<key>Total Time</key><integer>234352</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2018-07-28T12:29:54Z</date>
+			<key>Date Added</key><date>2018-07-28T12:29:54Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3616082018</integer>
+			<key>Play Date UTC</key><date>2018-08-02T10:13:38Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-08-02T13:06:53Z</date>
+			<key>Release Date</key><date>2018-04-14T07:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>고등래퍼2 Final</string>
+			<key>Sort Artist</key><string>김하온</string>
+			<key>Sort Name</key><string>붕붕 (feat. Sik-K) [Prod. GroovyRoom]</string>
+			<key>Persistent ID</key><string>B121F6EAF845C21A</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>401</key>
+		<dict>
+			<key>Track ID</key><integer>401</integer>
+			<key>Name</key><string>gold (feat. Dean)</string>
+			<key>Artist</key><string>offonoff</string>
+			<key>Album Artist</key><string>offonoff</string>
+			<key>Album</key><string>Boy.</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>8293272</integer>
+			<key>Total Time</key><integer>236053</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2018-07-28T12:31:29Z</date>
+			<key>Date Added</key><date>2018-07-28T12:31:29Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3615897328</integer>
+			<key>Play Date UTC</key><date>2018-07-31T06:55:28Z</date>
+			<key>Release Date</key><date>2017-07-24T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Boy.</string>
+			<key>Sort Artist</key><string>offonoff</string>
+			<key>Sort Name</key><string>gold (feat. Dean)</string>
+			<key>Persistent ID</key><string>6CC35E14C9ABE4C5</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>403</key>
+		<dict>
+			<key>Track ID</key><integer>403</integer>
+			<key>Name</key><string>PARACHUTE (feat. 오혁 &#38; Dok2)</string>
+			<key>Artist</key><string>코드쿤스트</string>
+			<key>Album Artist</key><string>코드쿤스트</string>
+			<key>Album</key><string>PARACHUTE (feat. 오혁 &#38; Dok2) - Single</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>9583612</integer>
+			<key>Total Time</key><integer>273839</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2018-07-28T12:31:57Z</date>
+			<key>Date Added</key><date>2018-07-28T12:31:57Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3616222811</integer>
+			<key>Play Date UTC</key><date>2018-08-04T01:20:11Z</date>
+			<key>Release Date</key><date>2015-10-21T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>PARACHUTE (feat. 오혁 &#38; Dok2) - Single</string>
+			<key>Sort Artist</key><string>코드쿤스트</string>
+			<key>Sort Name</key><string>PARACHUTE (feat. 오혁 &#38; Dok2)</string>
+			<key>Persistent ID</key><string>F1EEF3D41CBDAF5B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>405</key>
+		<dict>
+			<key>Track ID</key><integer>405</integer>
+			<key>Name</key><string>X (feat. 이하이)</string>
+			<key>Artist</key><string>코드쿤스트</string>
+			<key>Album Artist</key><string>코드쿤스트</string>
+			<key>Album</key><string>Muggles' Mansion</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>10804816</integer>
+			<key>Total Time</key><integer>311677</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2018-07-28T12:32:01Z</date>
+			<key>Date Added</key><date>2018-07-28T12:32:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3616001489</integer>
+			<key>Play Date UTC</key><date>2018-08-01T11:51:29Z</date>
+			<key>Release Date</key><date>2017-02-28T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Muggles' Mansion</string>
+			<key>Sort Artist</key><string>코드쿤스트</string>
+			<key>Sort Name</key><string>X (feat. 이하이)</string>
+			<key>Persistent ID</key><string>7B56C960EE83E36F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>407</key>
+		<dict>
+			<key>Track ID</key><integer>407</integer>
+			<key>Name</key><string>향수 (feat. 넉살)</string>
+			<key>Artist</key><string>코드쿤스트</string>
+			<key>Album Artist</key><string>코드쿤스트</string>
+			<key>Album</key><string>Muggles' Mansion</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>7234997</integer>
+			<key>Total Time</key><integer>203645</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2018-07-28T12:32:11Z</date>
+			<key>Date Added</key><date>2018-07-28T12:32:11Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3616223808</integer>
+			<key>Play Date UTC</key><date>2018-08-04T01:36:48Z</date>
+			<key>Release Date</key><date>2017-02-28T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Muggles' Mansion</string>
+			<key>Sort Artist</key><string>코드쿤스트</string>
+			<key>Sort Name</key><string>향수 (feat. 넉살)</string>
+			<key>Persistent ID</key><string>C788FA756723191B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>409</key>
+		<dict>
+			<key>Track ID</key><integer>409</integer>
+			<key>Name</key><string>공드리 (feat. 김예림)</string>
+			<key>Artist</key><string>프라이머리 &#38; 오혁</string>
+			<key>Album Artist</key><string>프라이머리 &#38; 오혁</string>
+			<key>Album</key><string>Lucky You! - EP</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>8595884</integer>
+			<key>Total Time</key><integer>243406</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2018-07-28T12:32:33Z</date>
+			<key>Date Added</key><date>2018-07-28T12:32:33Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3616172649</integer>
+			<key>Play Date UTC</key><date>2018-08-03T11:24:09Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-08-01T11:58:52Z</date>
+			<key>Release Date</key><date>2015-03-24T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Lucky You! - EP</string>
+			<key>Sort Artist</key><string>프라이머리 &#38; 오혁</string>
+			<key>Sort Name</key><string>공드리 (feat. 김예림)</string>
+			<key>Persistent ID</key><string>E45D76190A9296C1</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>411</key>
+		<dict>
+			<key>Track ID</key><integer>411</integer>
+			<key>Name</key><string>Bawling</string>
+			<key>Artist</key><string>프라이머리 &#38; 오혁</string>
+			<key>Album Artist</key><string>프라이머리 &#38; 오혁</string>
+			<key>Album</key><string>Lucky You! - EP</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>8546601</integer>
+			<key>Total Time</key><integer>243175</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2018-07-28T12:32:40Z</date>
+			<key>Date Added</key><date>2018-07-28T12:32:40Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3616081086</integer>
+			<key>Play Date UTC</key><date>2018-08-02T09:58:06Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-08-02T13:06:58Z</date>
+			<key>Release Date</key><date>2015-03-24T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Lucky You! - EP</string>
+			<key>Sort Artist</key><string>프라이머리 &#38; 오혁</string>
+			<key>Sort Name</key><string>Bawling</string>
+			<key>Persistent ID</key><string>4D149885F4FF65B5</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>413</key>
+		<dict>
+			<key>Track ID</key><integer>413</integer>
+			<key>Name</key><string>소녀</string>
+			<key>Artist</key><string>오혁</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>응답하라 1988 (Original Television Soundtrack)</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>7959138</integer>
+			<key>Total Time</key><integer>226275</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2018-07-28T12:32:43Z</date>
+			<key>Date Added</key><date>2018-07-28T12:32:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3615721897</integer>
+			<key>Play Date UTC</key><date>2018-07-29T06:11:37Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2018-07-31T13:55:32Z</date>
+			<key>Release Date</key><date>2015-11-21T08:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>응답하라 1988 (Original Television Soundtrack)</string>
+			<key>Sort Artist</key><string>오혁</string>
+			<key>Sort Name</key><string>소녀</string>
+			<key>Persistent ID</key><string>1ACAED710E4AA4F9</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>415</key>
+		<dict>
+			<key>Track ID</key><integer>415</integer>
+			<key>Name</key><string>Love Ya!</string>
+			<key>Artist</key><string>혁오</string>
+			<key>Album Artist</key><string>혁오</string>
+			<key>Album</key><string>24 : How To Find True Love and Happiness - EP</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>9769867</integer>
+			<key>Total Time</key><integer>251965</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2018-07-28T12:34:31Z</date>
+			<key>Date Added</key><date>2018-07-28T12:34:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3615727961</integer>
+			<key>Play Date UTC</key><date>2018-07-29T07:52:41Z</date>
+			<key>Release Date</key><date>2018-05-31T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>24 : How To Find True Love and Happiness - EP</string>
+			<key>Sort Artist</key><string>혁오</string>
+			<key>Sort Name</key><string>Love Ya!</string>
+			<key>Persistent ID</key><string>4E7D8E5EFD3F15C2</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>417</key>
+		<dict>
+			<key>Track ID</key><integer>417</integer>
+			<key>Name</key><string>위잉위잉</string>
+			<key>Artist</key><string>혁오</string>
+			<key>Album Artist</key><string>혁오</string>
+			<key>Composer</key><string>HYUKOH</string>
+			<key>Album</key><string>20 - EP</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>7014599</integer>
+			<key>Total Time</key><integer>193605</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2018-07-28T12:34:49Z</date>
+			<key>Date Added</key><date>2018-07-28T12:34:49Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3615721212</integer>
+			<key>Play Date UTC</key><date>2018-07-29T06:00:12Z</date>
+			<key>Release Date</key><date>2014-09-18T07:00:00Z</date>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>20 - EP</string>
+			<key>Sort Artist</key><string>혁오</string>
+			<key>Sort Name</key><string>위잉위잉</string>
+			<key>Persistent ID</key><string>71D908D5CECA10ED</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>419</key>
+		<dict>
+			<key>Track ID</key><integer>419</integer>
+			<key>Name</key><string>잊을만하면</string>
+			<key>Artist</key><string>Crush</string>
+			<key>Album Artist</key><string>Crush</string>
+			<key>Album</key><string>잊을만하면 - Single</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>8350543</integer>
+			<key>Total Time</key><integer>237411</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2018-07-28T12:35:14Z</date>
+			<key>Date Added</key><date>2018-07-28T12:35:14Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3616184998</integer>
+			<key>Play Date UTC</key><date>2018-08-03T14:49:58Z</date>
+			<key>Release Date</key><date>2018-05-03T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>잊을만하면 - Single</string>
+			<key>Sort Artist</key><string>Crush</string>
+			<key>Sort Name</key><string>잊을만하면</string>
+			<key>Persistent ID</key><string>4148C2DFED6749FE</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>421</key>
+		<dict>
+			<key>Track ID</key><integer>421</integer>
+			<key>Name</key><string>잊어버리지마 (feat. 태연)</string>
+			<key>Artist</key><string>Crush</string>
+			<key>Album Artist</key><string>Crush</string>
+			<key>Album</key><string>잊어버리지마 (feat. 태연) - Single</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>7807125</integer>
+			<key>Total Time</key><integer>219107</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2018-07-28T12:35:26Z</date>
+			<key>Date Added</key><date>2018-07-28T12:35:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3615924210</integer>
+			<key>Play Date UTC</key><date>2018-07-31T14:23:30Z</date>
+			<key>Release Date</key><date>2016-01-22T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>잊어버리지마 (feat. 태연) - Single</string>
+			<key>Sort Artist</key><string>Crush</string>
+			<key>Sort Name</key><string>잊어버리지마 (feat. 태연)</string>
+			<key>Persistent ID</key><string>73836E3E05CA9D7A</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>423</key>
+		<dict>
+			<key>Track ID</key><integer>423</integer>
+			<key>Name</key><string>꺼내 먹어요</string>
+			<key>Artist</key><string>Zion.T</string>
+			<key>Album Artist</key><string>Zion.T</string>
+			<key>Album</key><string>꺼내 먹어요 - Single</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>5876178</integer>
+			<key>Total Time</key><integer>161618</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2018-07-28T12:35:46Z</date>
+			<key>Date Added</key><date>2018-07-28T12:35:46Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3615923344</integer>
+			<key>Play Date UTC</key><date>2018-07-31T14:09:04Z</date>
+			<key>Release Date</key><date>2015-05-19T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>꺼내 먹어요 - Single</string>
+			<key>Sort Artist</key><string>Zion.T</string>
+			<key>Sort Name</key><string>꺼내 먹어요</string>
+			<key>Persistent ID</key><string>DAD17C983787A45F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>425</key>
+		<dict>
+			<key>Track ID</key><integer>425</integer>
+			<key>Name</key><string>돌아오지마 (Feat. 용준형)</string>
+			<key>Artist</key><string>헤이즈</string>
+			<key>Album Artist</key><string>헤이즈</string>
+			<key>Album</key><string>돌아오지마 - Single</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>7640039</integer>
+			<key>Total Time</key><integer>217040</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2018-07-28T12:36:24Z</date>
+			<key>Date Added</key><date>2018-07-28T12:36:24Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3616045846</integer>
+			<key>Play Date UTC</key><date>2018-08-02T00:10:46Z</date>
+			<key>Release Date</key><date>2016-04-14T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>돌아오지마 - Single</string>
+			<key>Sort Artist</key><string>Heize</string>
+			<key>Sort Name</key><string>돌아오지마 (Feat. 용준형)</string>
+			<key>Persistent ID</key><string>7F7A863C72E46F21</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>427</key>
+		<dict>
+			<key>Track ID</key><integer>427</integer>
+			<key>Name</key><string>And July (feat. DEAN &#38; DJ Friz)</string>
+			<key>Artist</key><string>헤이즈</string>
+			<key>Album Artist</key><string>헤이즈</string>
+			<key>Album</key><string>And July - EP</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>8028830</integer>
+			<key>Total Time</key><integer>226128</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2018-07-28T12:36:24Z</date>
+			<key>Date Added</key><date>2018-07-28T12:36:24Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3616061009</integer>
+			<key>Play Date UTC</key><date>2018-08-02T04:23:29Z</date>
+			<key>Release Date</key><date>2016-07-18T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>And July - EP</string>
+			<key>Sort Artist</key><string>Heize</string>
+			<key>Sort Name</key><string>And July (feat. DEAN &#38; DJ Friz)</string>
+			<key>Persistent ID</key><string>6C18A48B64409394</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>429</key>
+		<dict>
+			<key>Track ID</key><integer>429</integer>
+			<key>Name</key><string>처음부터 너와 나</string>
+			<key>Artist</key><string>볼빨간사춘기</string>
+			<key>Album Artist</key><string>볼빨간사춘기</string>
+			<key>Album</key><string>군주 - 가면의 주인, Pt. 2 (Original Television Soundtrack) - Single</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>7448393</integer>
+			<key>Total Time</key><integer>204130</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2018-07-28T12:36:50Z</date>
+			<key>Date Added</key><date>2018-07-28T12:36:50Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3616337412</integer>
+			<key>Play Date UTC</key><date>2018-08-05T09:10:12Z</date>
+			<key>Release Date</key><date>2017-05-17T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>군주 - 가면의 주인, Pt. 2 (Original Television Soundtrack) - Single</string>
+			<key>Sort Artist</key><string>볼빨간사춘기</string>
+			<key>Sort Name</key><string>처음부터 너와 나</string>
+			<key>Persistent ID</key><string>0299023824E503F5</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>431</key>
+		<dict>
+			<key>Track ID</key><integer>431</integer>
+			<key>Name</key><string>가리워진 길</string>
+			<key>Artist</key><string>볼빨간사춘기</string>
+			<key>Album Artist</key><string>볼빨간사춘기</string>
+			<key>Album</key><string>미생 (Original Television Soundtrack), Pt. 4 - Single</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>9346878</integer>
+			<key>Total Time</key><integer>262827</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2018-07-28T12:36:58Z</date>
+			<key>Date Added</key><date>2018-07-28T12:36:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3616164239</integer>
+			<key>Play Date UTC</key><date>2018-08-03T09:03:59Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2018-08-02T13:07:13Z</date>
+			<key>Release Date</key><date>2014-12-05T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>미생 (Original Television Soundtrack), Pt. 4 - Single</string>
+			<key>Sort Artist</key><string>볼빨간사춘기</string>
+			<key>Sort Name</key><string>가리워진 길</string>
+			<key>Persistent ID</key><string>EB330DC943A598E9</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>433</key>
+		<dict>
+			<key>Track ID</key><integer>433</integer>
+			<key>Name</key><string>DINOSAUR</string>
+			<key>Artist</key><string>악동뮤지션</string>
+			<key>Album Artist</key><string>악동뮤지션</string>
+			<key>Album</key><string>SUMMER EPISODE - EP</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>8460769</integer>
+			<key>Total Time</key><integer>240572</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2018-07-28T12:37:28Z</date>
+			<key>Date Added</key><date>2018-07-28T12:37:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3616218153</integer>
+			<key>Play Date UTC</key><date>2018-08-04T00:02:33Z</date>
+			<key>Release Date</key><date>2017-07-20T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>SUMMER EPISODE - EP</string>
+			<key>Sort Artist</key><string>악동뮤지션</string>
+			<key>Sort Name</key><string>DINOSAUR</string>
+			<key>Persistent ID</key><string>D87C25B00F808752</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>435</key>
+		<dict>
+			<key>Track ID</key><integer>435</integer>
+			<key>Name</key><string>라면인건가</string>
+			<key>Artist</key><string>악동뮤지션</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>SBS K팝 스타 시즌2 Top 10 - 1회 - EP</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>6822558</integer>
+			<key>Total Time</key><integer>190473</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2018-07-28T12:37:55Z</date>
+			<key>Date Added</key><date>2018-07-28T12:37:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3616229921</integer>
+			<key>Play Date UTC</key><date>2018-08-04T03:18:41Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-07-31T07:12:50Z</date>
+			<key>Release Date</key><date>2013-02-17T08:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>SBS K팝 스타 시즌2 Top 10 - 1회 - EP</string>
+			<key>Sort Artist</key><string>악동뮤지션</string>
+			<key>Sort Name</key><string>라면인건가</string>
+			<key>Persistent ID</key><string>D52364E5699C9D6B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>437</key>
+		<dict>
+			<key>Track ID</key><integer>437</integer>
+			<key>Name</key><string>한숨</string>
+			<key>Artist</key><string>이하이</string>
+			<key>Album Artist</key><string>이하이</string>
+			<key>Album</key><string>SEOULITE - EP</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>9817979</integer>
+			<key>Total Time</key><integer>288915</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2018-07-28T12:38:13Z</date>
+			<key>Date Added</key><date>2018-07-28T12:38:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3616082305</integer>
+			<key>Play Date UTC</key><date>2018-08-02T10:18:25Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-08-02T13:07:01Z</date>
+			<key>Release Date</key><date>2016-03-09T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>SEOULITE - EP</string>
+			<key>Sort Artist</key><string>Lee Hi</string>
+			<key>Sort Name</key><string>한숨</string>
+			<key>Persistent ID</key><string>B2CFDB10677EB7CD</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>439</key>
+		<dict>
+			<key>Track ID</key><integer>439</integer>
+			<key>Name</key><string>Happier</string>
+			<key>Artist</key><string>Ed Sheeran</string>
+			<key>Album Artist</key><string>Ed Sheeran</string>
+			<key>Composer</key><string>Ryan Tedder &#38; Benjamin Levin</string>
+			<key>Album</key><string>÷ (Deluxe)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>7362456</integer>
+			<key>Total Time</key><integer>207520</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2018-07-28T12:40:14Z</date>
+			<key>Date Added</key><date>2018-07-28T12:40:14Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3616343440</integer>
+			<key>Play Date UTC</key><date>2018-08-05T10:50:40Z</date>
+			<key>Release Date</key><date>2017-03-03T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>÷ (Deluxe)</string>
+			<key>Sort Artist</key><string>Ed Sheeran</string>
+			<key>Sort Name</key><string>Happier</string>
+			<key>Persistent ID</key><string>8D6FD767FD8D8788</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>441</key>
+		<dict>
+			<key>Track ID</key><integer>441</integer>
+			<key>Name</key><string>Perfect</string>
+			<key>Artist</key><string>Ed Sheeran</string>
+			<key>Album Artist</key><string>Ed Sheeran</string>
+			<key>Album</key><string>÷ (Deluxe)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>9263610</integer>
+			<key>Total Time</key><integer>263400</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2018-07-28T12:40:27Z</date>
+			<key>Date Added</key><date>2018-07-28T12:40:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3615726854</integer>
+			<key>Play Date UTC</key><date>2018-07-29T07:34:14Z</date>
+			<key>Release Date</key><date>2017-03-03T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>÷ (Deluxe)</string>
+			<key>Sort Artist</key><string>Ed Sheeran</string>
+			<key>Sort Name</key><string>Perfect</string>
+			<key>Persistent ID</key><string>CE3FDBB5D7CE529D</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>443</key>
+		<dict>
+			<key>Track ID</key><integer>443</integer>
+			<key>Name</key><string>Thinking Out Loud</string>
+			<key>Artist</key><string>Ed Sheeran</string>
+			<key>Album Artist</key><string>Ed Sheeran</string>
+			<key>Composer</key><string>Ed Sheeran &#38; Amy Wadge</string>
+			<key>Album</key><string>x (Wembley Edition)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>9779358</integer>
+			<key>Total Time</key><integer>281560</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2018-07-28T12:40:35Z</date>
+			<key>Date Added</key><date>2018-07-28T12:40:35Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3616343740</integer>
+			<key>Play Date UTC</key><date>2018-08-05T10:55:40Z</date>
+			<key>Release Date</key><date>2014-06-20T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>x (Wembley Edition)</string>
+			<key>Sort Artist</key><string>Ed Sheeran</string>
+			<key>Sort Name</key><string>Thinking Out Loud</string>
+			<key>Persistent ID</key><string>D7AF0E1DC4F42C61</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>445</key>
+		<dict>
+			<key>Track ID</key><integer>445</integer>
+			<key>Name</key><string>Too Good at Goodbyes</string>
+			<key>Artist</key><string>Sam Smith</string>
+			<key>Album Artist</key><string>Sam Smith</string>
+			<key>Composer</key><string>Sam Smith, James Napier, Tor Erik Hermansen &#38; Mikkel Storleer Eriksen</string>
+			<key>Album</key><string>The Thrill of It All</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>7197048</integer>
+			<key>Total Time</key><integer>201000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2018-07-28T12:41:00Z</date>
+			<key>Date Added</key><date>2018-07-28T12:41:00Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3615752047</integer>
+			<key>Play Date UTC</key><date>2018-07-29T14:34:07Z</date>
+			<key>Release Date</key><date>2017-09-08T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>The Thrill of It All</string>
+			<key>Sort Artist</key><string>Sam Smith</string>
+			<key>Sort Name</key><string>Too Good at Goodbyes</string>
+			<key>Persistent ID</key><string>273957D17C9EE113</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>447</key>
+		<dict>
+			<key>Track ID</key><integer>447</integer>
+			<key>Name</key><string>Lay Me Down</string>
+			<key>Artist</key><string>Sam Smith</string>
+			<key>Album Artist</key><string>Sam Smith</string>
+			<key>Composer</key><string>Sam Smith, James Napier &#38; Elvin Smith</string>
+			<key>Album</key><string>In the Lonely Hour (Drowning Shadows Edition)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>8956844</integer>
+			<key>Total Time</key><integer>253208</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2018-07-28T12:41:10Z</date>
+			<key>Date Added</key><date>2018-07-28T12:41:10Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3615727312</integer>
+			<key>Play Date UTC</key><date>2018-07-29T07:41:52Z</date>
+			<key>Release Date</key><date>2013-02-15T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>In the Lonely Hour (Drowning Shadows Edition)</string>
+			<key>Sort Artist</key><string>Sam Smith</string>
+			<key>Sort Name</key><string>Lay Me Down</string>
+			<key>Persistent ID</key><string>A420C9A8233D5B3B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>449</key>
+		<dict>
+			<key>Track ID</key><integer>449</integer>
+			<key>Name</key><string>Stay With Me</string>
+			<key>Artist</key><string>Sam Smith</string>
+			<key>Album Artist</key><string>Sam Smith</string>
+			<key>Composer</key><string>Sam Smith, James Napier, William Phillips, Jeff Lynne &#38; Tom Petty</string>
+			<key>Album</key><string>In the Lonely Hour (Drowning Shadows Edition)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>6260688</integer>
+			<key>Total Time</key><integer>172724</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2018-07-28T12:41:33Z</date>
+			<key>Date Added</key><date>2018-07-28T12:41:33Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3616173042</integer>
+			<key>Play Date UTC</key><date>2018-08-03T11:30:42Z</date>
+			<key>Release Date</key><date>2014-04-14T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>In the Lonely Hour (Drowning Shadows Edition)</string>
+			<key>Sort Artist</key><string>Sam Smith</string>
+			<key>Sort Name</key><string>Stay With Me</string>
+			<key>Persistent ID</key><string>A034A49E94833A2F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>451</key>
+		<dict>
+			<key>Track ID</key><integer>451</integer>
+			<key>Name</key><string>Back to You</string>
+			<key>Artist</key><string>Selena Gomez</string>
+			<key>Album Artist</key><string>Selena Gomez, OneRepublic &#38; YUNGBLUD</string>
+			<key>Composer</key><string>Selena Gomez, Parrish Warrington, Diederik van Elsas, Amy Rose Allen &#38; Micah Premnath</string>
+			<key>Album</key><string>13 Reasons Why: Season 2 (Music from the Original TV Series)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>7589050</integer>
+			<key>Total Time</key><integer>210240</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2018-07-28T12:42:25Z</date>
+			<key>Date Added</key><date>2018-07-28T12:42:25Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3616172869</integer>
+			<key>Play Date UTC</key><date>2018-08-03T11:27:49Z</date>
+			<key>Release Date</key><date>2018-05-10T07:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>13 Reasons Why: Season 2 (Music from the Original TV Series)</string>
+			<key>Sort Artist</key><string>Selena Gomez</string>
+			<key>Sort Name</key><string>Back to You</string>
+			<key>Persistent ID</key><string>117720BB94DD2F40</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>453</key>
+		<dict>
+			<key>Track ID</key><integer>453</integer>
+			<key>Name</key><string>Bad Liar</string>
+			<key>Artist</key><string>Selena Gomez</string>
+			<key>Album Artist</key><string>Selena Gomez</string>
+			<key>Composer</key><string>Selena Gomez, Justin Tranter, Julia Michaels, Ian Kirkpatrick &#38; David Byrne</string>
+			<key>Album</key><string>Bad Liar - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>7576737</integer>
+			<key>Total Time</key><integer>214648</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2018-07-28T12:42:30Z</date>
+			<key>Date Added</key><date>2018-07-28T12:42:30Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3616083164</integer>
+			<key>Play Date UTC</key><date>2018-08-02T10:32:44Z</date>
+			<key>Release Date</key><date>2017-05-18T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Bad Liar - Single</string>
+			<key>Sort Artist</key><string>Selena Gomez</string>
+			<key>Sort Name</key><string>Bad Liar</string>
+			<key>Persistent ID</key><string>C369E3D42E2AC223</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>455</key>
+		<dict>
+			<key>Track ID</key><integer>455</integer>
+			<key>Name</key><string>It Ain't Me</string>
+			<key>Artist</key><string>Kygo &#38; Selena Gomez</string>
+			<key>Album Artist</key><string>Kygo &#38; Selena Gomez</string>
+			<key>Composer</key><string>Kygo, Selena Gomez, Andrew Wotman, Brian Lee &#38; Ali Tamposi</string>
+			<key>Album</key><string>It Ain't Me - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>8440588</integer>
+			<key>Total Time</key><integer>220781</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2018-07-28T12:42:33Z</date>
+			<key>Date Added</key><date>2018-07-28T12:42:33Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3616174668</integer>
+			<key>Play Date UTC</key><date>2018-08-03T11:57:48Z</date>
+			<key>Release Date</key><date>2017-02-17T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>It Ain't Me - Single</string>
+			<key>Sort Artist</key><string>Kygo &#38; Selena Gomez</string>
+			<key>Sort Name</key><string>It Ain't Me</string>
+			<key>Persistent ID</key><string>57DDA5D9FC7D9A46</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>457</key>
+		<dict>
+			<key>Track ID</key><integer>457</integer>
+			<key>Name</key><string>Madeleine Love</string>
+			<key>Artist</key><string>치즈</string>
+			<key>Album Artist</key><string>치즈</string>
+			<key>Album</key><string>Plain</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>8559970</integer>
+			<key>Total Time</key><integer>218571</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2018-07-28T12:44:02Z</date>
+			<key>Date Added</key><date>2018-07-28T12:44:02Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3616009582</integer>
+			<key>Play Date UTC</key><date>2018-08-01T14:06:22Z</date>
+			<key>Release Date</key><date>2015-05-13T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Plain</string>
+			<key>Sort Artist</key><string>치즈</string>
+			<key>Sort Name</key><string>Madeleine Love</string>
+			<key>Persistent ID</key><string>ADAB347D4EA5B410</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>459</key>
+		<dict>
+			<key>Track ID</key><integer>459</integer>
+			<key>Name</key><string>퇴근시간</string>
+			<key>Artist</key><string>치즈</string>
+			<key>Album Artist</key><string>치즈</string>
+			<key>Album</key><string>Plain</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>14360259</integer>
+			<key>Total Time</key><integer>397326</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2018-07-28T12:44:16Z</date>
+			<key>Date Added</key><date>2018-07-28T12:44:16Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3615727709</integer>
+			<key>Play Date UTC</key><date>2018-07-29T07:48:29Z</date>
+			<key>Release Date</key><date>2015-05-13T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Plain</string>
+			<key>Sort Artist</key><string>치즈</string>
+			<key>Sort Name</key><string>퇴근시간</string>
+			<key>Persistent ID</key><string>6F7C0C66CE0DE18B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>461</key>
+		<dict>
+			<key>Track ID</key><integer>461</integer>
+			<key>Name</key><string>How Do You Think</string>
+			<key>Artist</key><string>치즈</string>
+			<key>Album Artist</key><string>치즈</string>
+			<key>Composer</key><string>Cheeze</string>
+			<key>Album</key><string>Q - EP</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>7517981</integer>
+			<key>Total Time</key><integer>205693</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2018-07-28T12:44:59Z</date>
+			<key>Date Added</key><date>2018-07-28T12:44:59Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3616163214</integer>
+			<key>Play Date UTC</key><date>2018-08-03T08:46:54Z</date>
+			<key>Release Date</key><date>2016-06-16T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Q - EP</string>
+			<key>Sort Artist</key><string>치즈</string>
+			<key>Sort Name</key><string>How Do You Think</string>
+			<key>Persistent ID</key><string>F981B9472F98FBFB</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>463</key>
+		<dict>
+			<key>Track ID</key><integer>463</integer>
+			<key>Name</key><string>Bye Bye My Blue</string>
+			<key>Artist</key><string>백예린</string>
+			<key>Album Artist</key><string>백예린</string>
+			<key>Album</key><string>Bye Bye My Blue - Single</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>7421546</integer>
+			<key>Total Time</key><integer>203413</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2018-07-28T12:45:12Z</date>
+			<key>Date Added</key><date>2018-07-28T12:45:12Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3616344597</integer>
+			<key>Play Date UTC</key><date>2018-08-05T11:09:57Z</date>
+			<key>Release Date</key><date>2016-06-20T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Bye Bye My Blue - Single</string>
+			<key>Sort Artist</key><string>백예린</string>
+			<key>Sort Name</key><string>Bye Bye My Blue</string>
+			<key>Persistent ID</key><string>C2A25A689EFF22D9</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>465</key>
+		<dict>
+			<key>Track ID</key><integer>465</integer>
+			<key>Name</key><string>우주를 건너 Across the Universe</string>
+			<key>Artist</key><string>백예린</string>
+			<key>Album Artist</key><string>백예린</string>
+			<key>Album</key><string>FRANK - EP</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>8697162</integer>
+			<key>Total Time</key><integer>247173</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2018-07-28T12:45:15Z</date>
+			<key>Date Added</key><date>2018-07-28T12:45:15Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3616319240</integer>
+			<key>Play Date UTC</key><date>2018-08-05T04:07:20Z</date>
+			<key>Release Date</key><date>2015-11-30T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>FRANK - EP</string>
+			<key>Sort Artist</key><string>백예린</string>
+			<key>Sort Name</key><string>우주를 건너 Across the Universe</string>
+			<key>Persistent ID</key><string>F2CDBEE31A749A60</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>467</key>
+		<dict>
+			<key>Track ID</key><integer>467</integer>
+			<key>Name</key><string>넘어와 (feat. 백예린)</string>
+			<key>Artist</key><string>DEAN</string>
+			<key>Album Artist</key><string>DEAN</string>
+			<key>Composer</key><string>DEAN, RE:ONE, 2xxx!, Deuk Kyung Hwang &#38; Chek Parren</string>
+			<key>Album</key><string>Limbo - Single</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>9355090</integer>
+			<key>Total Time</key><integer>266137</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2018-07-28T12:45:28Z</date>
+			<key>Date Added</key><date>2018-07-28T12:45:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3616069373</integer>
+			<key>Play Date UTC</key><date>2018-08-02T06:42:53Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-08-02T10:29:04Z</date>
+			<key>Release Date</key><date>2017-02-17T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Limbo - Single</string>
+			<key>Sort Artist</key><string>DEAN</string>
+			<key>Sort Name</key><string>넘어와 (feat. 백예린)</string>
+			<key>Persistent ID</key><string>D827A1C7455E0AEA</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>469</key>
+		<dict>
+			<key>Track ID</key><integer>469</integer>
+			<key>Name</key><string>Run (with GRAY)</string>
+			<key>Artist</key><string>이진아</string>
+			<key>Album Artist</key><string>이진아</string>
+			<key>Album</key><string>진아식당 Full Course</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>8030138</integer>
+			<key>Total Time</key><integer>226840</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2018-07-28T12:46:28Z</date>
+			<key>Date Added</key><date>2018-07-28T12:46:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3615911258</integer>
+			<key>Play Date UTC</key><date>2018-07-31T10:47:38Z</date>
+			<key>Release Date</key><date>2018-06-26T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>진아식당 Full Course</string>
+			<key>Sort Artist</key><string>이진아</string>
+			<key>Sort Name</key><string>Run (with GRAY)</string>
+			<key>Persistent ID</key><string>7D6352481779AFDD</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>471</key>
+		<dict>
+			<key>Track ID</key><integer>471</integer>
+			<key>Name</key><string>party (Shut Down) [feat. 크러쉬]</string>
+			<key>Artist</key><string>Sik-K</string>
+			<key>Album Artist</key><string>Sik-K</string>
+			<key>Album</key><string>H.A.L.F (Have.A.Little.Fun)</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>7678807</integer>
+			<key>Total Time</key><integer>216114</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2018-07-29T14:34:16Z</date>
+			<key>Date Added</key><date>2018-07-29T14:34:16Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3616083635</integer>
+			<key>Play Date UTC</key><date>2018-08-02T10:40:35Z</date>
+			<key>Release Date</key><date>2017-06-05T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>H.A.L.F (Have.A.Little.Fun)</string>
+			<key>Sort Artist</key><string>Sik-K</string>
+			<key>Sort Name</key><string>party (Shut Down) [feat. 크러쉬]</string>
+			<key>Persistent ID</key><string>00BE1E1D75CFF01C</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>473</key>
+		<dict>
+			<key>Track ID</key><integer>473</integer>
+			<key>Name</key><string>바코드 (Prod. GroovyRoom)</string>
+			<key>Artist</key><string>김하온 &#38; Vinxen</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>고등래퍼2 팀대항전, Pt. 3 - EP</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>7883269</integer>
+			<key>Total Time</key><integer>222898</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2018-07-29T14:36:04Z</date>
+			<key>Date Added</key><date>2018-07-29T14:36:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3616345021</integer>
+			<key>Play Date UTC</key><date>2018-08-05T11:17:01Z</date>
+			<key>Release Date</key><date>2018-03-31T07:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>고등래퍼2 팀대항전, Pt. 3 - EP</string>
+			<key>Sort Artist</key><string>김하온 &#38; Vinxen</string>
+			<key>Sort Name</key><string>바코드 (Prod. GroovyRoom)</string>
+			<key>Persistent ID</key><string>414C352D7FE761AE</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>475</key>
+		<dict>
+			<key>Track ID</key><integer>475</integer>
+			<key>Name</key><string>탓 (Prod. BOYCOLD)</string>
+			<key>Artist</key><string>Vinxen</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>고등래퍼 2 Semifinal</string>
+			<key>Genre</key><string>TV Soundtrack</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>7436539</integer>
+			<key>Total Time</key><integer>209290</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2018-07-29T14:36:22Z</date>
+			<key>Date Added</key><date>2018-07-29T14:36:22Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3616082719</integer>
+			<key>Play Date UTC</key><date>2018-08-02T10:25:19Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-08-03T11:24:18Z</date>
+			<key>Release Date</key><date>2018-04-07T07:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>고등래퍼 2 Semifinal</string>
+			<key>Sort Artist</key><string>Vinxen</string>
+			<key>Sort Name</key><string>탓 (Prod. BOYCOLD)</string>
+			<key>Persistent ID</key><string>1698509CE9FB9A9C</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>477</key>
+		<dict>
+			<key>Track ID</key><integer>477</integer>
+			<key>Name</key><string>향수 (with WOOGIE)</string>
+			<key>Artist</key><string>우원재</string>
+			<key>Album Artist</key><string>우원재</string>
+			<key>Album</key><string>슬기로운 감빵생활 (Original Television Soundtrack), Pt. 6</string>
+			<key>Genre</key><string>TV Soundtrack</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>7198967</integer>
+			<key>Total Time</key><integer>201656</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2018-07-29T14:36:56Z</date>
+			<key>Date Added</key><date>2018-07-29T14:36:56Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3616258496</integer>
+			<key>Play Date UTC</key><date>2018-08-04T11:14:56Z</date>
+			<key>Release Date</key><date>2017-12-20T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>슬기로운 감빵생활 (Original Television Soundtrack), Pt. 6</string>
+			<key>Sort Artist</key><string>우원재</string>
+			<key>Sort Name</key><string>향수 (with WOOGIE)</string>
+			<key>Persistent ID</key><string>C5CE629031E509F8</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>479</key>
+		<dict>
+			<key>Track ID</key><integer>479</integer>
+			<key>Name</key><string>Rain</string>
+			<key>Artist</key><string>김예림</string>
+			<key>Album Artist</key><string>김예림</string>
+			<key>Album</key><string>Her Voice</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>8233205</integer>
+			<key>Total Time</key><integer>230693</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2018-07-29T14:37:59Z</date>
+			<key>Date Added</key><date>2018-07-29T14:37:59Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2013-08-27T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Her Voice</string>
+			<key>Sort Artist</key><string>김예림</string>
+			<key>Sort Name</key><string>Rain</string>
+			<key>Persistent ID</key><string>335DC0061DA232BB</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>481</key>
+		<dict>
+			<key>Track ID</key><integer>481</integer>
+			<key>Name</key><string>내 입술 따뜻한 커피처럼 (feat. 이성경)</string>
+			<key>Artist</key><string>에디킴</string>
+			<key>Album Artist</key><string>에디킴</string>
+			<key>Album</key><string>내 입술 따뜻한 커피처럼 (feat. 이성경) - Single</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>8268328</integer>
+			<key>Total Time</key><integer>234706</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2018-07-29T14:39:21Z</date>
+			<key>Date Added</key><date>2018-07-29T14:39:21Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2016-04-29T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>내 입술 따뜻한 커피처럼 (feat. 이성경) - Single</string>
+			<key>Sort Artist</key><string>에디킴</string>
+			<key>Sort Name</key><string>내 입술 따뜻한 커피처럼 (feat. 이성경)</string>
+			<key>Persistent ID</key><string>97F9765509C00AB9</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>483</key>
+		<dict>
+			<key>Track ID</key><integer>483</integer>
+			<key>Name</key><string>정류장</string>
+			<key>Artist</key><string>버스커버스커</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>슈퍼스타K 3 Top 11, Pt. 3</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>7366107</integer>
+			<key>Total Time</key><integer>206583</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2018-07-29T14:40:05Z</date>
+			<key>Date Added</key><date>2018-07-29T14:40:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2011-10-17T07:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>슈퍼스타K 3 Top 11, Pt. 3</string>
+			<key>Sort Artist</key><string>버스커버스커</string>
+			<key>Sort Name</key><string>정류장</string>
+			<key>Persistent ID</key><string>CB66383C14625EEF</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>485</key>
+		<dict>
+			<key>Track ID</key><integer>485</integer>
+			<key>Name</key><string>1월부터 6월까지 From January to June</string>
+			<key>Artist</key><string>윤종신</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>행보 2013 윤종신</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>8972001</integer>
+			<key>Total Time</key><integer>252161</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2018-07-29T14:41:01Z</date>
+			<key>Date Added</key><date>2018-07-29T14:41:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3616175309</integer>
+			<key>Play Date UTC</key><date>2018-08-03T12:08:29Z</date>
+			<key>Release Date</key><date>2013-12-20T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>행보 2013 윤종신</string>
+			<key>Sort Artist</key><string>윤종신</string>
+			<key>Sort Name</key><string>1월부터 6월까지 From January to June</string>
+			<key>Persistent ID</key><string>11504184464E227F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>487</key>
+		<dict>
+			<key>Track ID</key><integer>487</integer>
+			<key>Name</key><string>If You're Like Me (나와 같다면)</string>
+			<key>Artist</key><string>김연우</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>I Am a Singer (나는 가수다) Season 1 [Contest 3-2 - Recommended Songs from the Netizen]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>7787357</integer>
+			<key>Total Time</key><integer>218358</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2018-07-29T14:42:31Z</date>
+			<key>Date Added</key><date>2018-07-29T14:42:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3615897891</integer>
+			<key>Play Date UTC</key><date>2018-07-31T07:04:51Z</date>
+			<key>Release Date</key><date>2011-05-22T07:00:00Z</date>
+			<key>Loved</key><true/>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>I Am a Singer (나는 가수다) Season 1 [Contest 3-2 - Recommended Songs from the Netizen]</string>
+			<key>Sort Artist</key><string>김연우</string>
+			<key>Sort Name</key><string>If You're Like Me (나와 같다면)</string>
+			<key>Persistent ID</key><string>46906D709D52FA41</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>489</key>
+		<dict>
+			<key>Track ID</key><integer>489</integer>
+			<key>Name</key><string>사랑이 다른 사랑으로 잊혀지네</string>
+			<key>Artist</key><string>하림</string>
+			<key>Album Artist</key><string>하림</string>
+			<key>Album</key><string>Whistle In a Maze</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>10468713</integer>
+			<key>Total Time</key><integer>289000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2018-07-29T14:44:29Z</date>
+			<key>Date Added</key><date>2018-07-29T14:44:29Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2004-04-09T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Whistle In a Maze</string>
+			<key>Sort Artist</key><string>하림</string>
+			<key>Sort Name</key><string>사랑이 다른 사랑으로 잊혀지네</string>
+			<key>Persistent ID</key><string>E1029C51A301FF3E</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>491</key>
+		<dict>
+			<key>Track ID</key><integer>491</integer>
+			<key>Name</key><string>出國 (출국)</string>
+			<key>Artist</key><string>하림</string>
+			<key>Album Artist</key><string>하림</string>
+			<key>Album</key><string>다중인격자</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>9618130</integer>
+			<key>Total Time</key><integer>274867</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2018-07-29T14:44:30Z</date>
+			<key>Date Added</key><date>2018-07-29T14:44:30Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3616184761</integer>
+			<key>Play Date UTC</key><date>2018-08-03T14:46:01Z</date>
+			<key>Release Date</key><date>2001-12-27T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>다중인격자</string>
+			<key>Sort Artist</key><string>하림</string>
+			<key>Sort Name</key><string>出國 (출국)</string>
+			<key>Persistent ID</key><string>1EA5D736847F31DF</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>493</key>
+		<dict>
+			<key>Track ID</key><integer>493</integer>
+			<key>Name</key><string>새벽 가로수길</string>
+			<key>Artist</key><string>백지영 &#38; 송유빈</string>
+			<key>Album Artist</key><string>백지영 &#38; 송유빈</string>
+			<key>Album</key><string>새벽 가로수길 - Single</string>
+			<key>Genre</key><string>Korean</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>7818895</integer>
+			<key>Total Time</key><integer>222234</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2018-07-29T14:45:57Z</date>
+			<key>Date Added</key><date>2018-07-29T14:45:57Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2015-03-24T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>새벽 가로수길 - Single</string>
+			<key>Sort Artist</key><string>백지영 &#38; 송유빈</string>
+			<key>Sort Name</key><string>새벽 가로수길</string>
+			<key>Persistent ID</key><string>C297ED5B91DF6542</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>495</key>
+		<dict>
+			<key>Track ID</key><integer>495</integer>
+			<key>Name</key><string>거리에서</string>
+			<key>Artist</key><string>성시경</string>
+			<key>Album Artist</key><string>성시경</string>
+			<key>Album</key><string>The Ballads</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>9712426</integer>
+			<key>Total Time</key><integer>279341</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2018-07-29T14:46:17Z</date>
+			<key>Date Added</key><date>2018-07-29T14:46:17Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Release Date</key><date>2006-10-10T07:00:00Z</date>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>The Ballads</string>
+			<key>Sort Artist</key><string>성시경</string>
+			<key>Sort Name</key><string>거리에서</string>
+			<key>Persistent ID</key><string>59A86D401784806C</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>497</key>
+		<dict>
+			<key>Track ID</key><integer>497</integer>
+			<key>Name</key><string>You Are My Spring</string>
+			<key>Artist</key><string>성시경</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Composer</key><string>Sung Si Kyung</string>
+			<key>Album</key><string>시크릿가든 (Original Television Soundtrack)</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>9476401</integer>
+			<key>Total Time</key><integer>269187</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2018-07-29T14:46:39Z</date>
+			<key>Date Added</key><date>2018-07-29T14:46:39Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3615991422</integer>
+			<key>Play Date UTC</key><date>2018-08-01T09:03:42Z</date>
+			<key>Release Date</key><date>2011-06-13T07:00:00Z</date>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>시크릿가든 (Original Television Soundtrack)</string>
+			<key>Sort Artist</key><string>성시경</string>
+			<key>Sort Name</key><string>You Are My Spring</string>
+			<key>Persistent ID</key><string>3F686031FB11EC9F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>499</key>
+		<dict>
+			<key>Track ID</key><integer>499</integer>
+			<key>Name</key><string>Mood Indigo</string>
+			<key>Artist</key><string>치즈</string>
+			<key>Album Artist</key><string>치즈</string>
+			<key>Composer</key><string>Cheeze</string>
+			<key>Album</key><string>Q - EP</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>7951060</integer>
+			<key>Total Time</key><integer>221619</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2018-07-29T14:47:56Z</date>
+			<key>Date Added</key><date>2018-07-29T14:47:56Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3616070734</integer>
+			<key>Play Date UTC</key><date>2018-08-02T07:05:34Z</date>
+			<key>Release Date</key><date>2016-05-26T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Q - EP</string>
+			<key>Sort Artist</key><string>치즈</string>
+			<key>Sort Name</key><string>Mood Indigo</string>
+			<key>Persistent ID</key><string>9917C60967E28129</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>501</key>
+		<dict>
+			<key>Track ID</key><integer>501</integer>
+			<key>Name</key><string>투유 프로젝트 슈가맨, Pt. 3 - 아마도 그건</string>
+			<key>Artist</key><string>Crush &#38; 로꼬</string>
+			<key>Album Artist</key><string>Crush &#38; 로꼬</string>
+			<key>Album</key><string>투유 프로젝트 슈가맨, Pt. 3 - 아마도 그건 - Single</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>6942006</integer>
+			<key>Total Time</key><integer>193267</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2018-07-29T14:49:17Z</date>
+			<key>Date Added</key><date>2018-07-29T14:49:17Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2018-08-03T11:44:28Z</date>
+			<key>Release Date</key><date>2015-11-04T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>투유 프로젝트 슈가맨, Pt. 3 - 아마도 그건 - Single</string>
+			<key>Sort Artist</key><string>Crush &#38; LOCO</string>
+			<key>Sort Name</key><string>투유 프로젝트 슈가맨, Pt. 3 - 아마도 그건</string>
+			<key>Persistent ID</key><string>770A7E1DFFAF3516</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>503</key>
+		<dict>
+			<key>Track ID</key><integer>503</integer>
+			<key>Name</key><string>광화문에서 At Gwanghwamun</string>
+			<key>Artist</key><string>규현</string>
+			<key>Album Artist</key><string>규현</string>
+			<key>Album</key><string>The 1st Mini Album '광화문에서 At Gwanghwamun'</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>9952801</integer>
+			<key>Total Time</key><integer>282806</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2018-07-29T14:56:53Z</date>
+			<key>Date Added</key><date>2018-07-29T14:56:53Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-11-13T08:00:00Z</date>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>The 1st Mini Album '광화문에서 At Gwanghwamun'</string>
+			<key>Sort Artist</key><string>규현</string>
+			<key>Sort Name</key><string>광화문에서 At Gwanghwamun</string>
+			<key>Persistent ID</key><string>B329507CD87CE041</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>505</key>
+		<dict>
+			<key>Track ID</key><integer>505</integer>
+			<key>Name</key><string>instagram</string>
+			<key>Artist</key><string>DEAN</string>
+			<key>Album Artist</key><string>DEAN</string>
+			<key>Composer</key><string>DEAN, 2xxx!, RE:ONE, Miso, chekparren &#38; Jusen</string>
+			<key>Album</key><string>instagram - Single</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>9026097</integer>
+			<key>Total Time</key><integer>255729</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2018-07-29T14:59:10Z</date>
+			<key>Date Added</key><date>2018-07-29T14:59:10Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3615958484</integer>
+			<key>Play Date UTC</key><date>2018-07-31T23:54:44Z</date>
+			<key>Release Date</key><date>2017-12-25T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>instagram - Single</string>
+			<key>Sort Artist</key><string>DEAN</string>
+			<key>Sort Name</key><string>instagram</string>
+			<key>Persistent ID</key><string>BB25331C36DE297A</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>507</key>
+		<dict>
+			<key>Track ID</key><integer>507</integer>
+			<key>Name</key><string>알렉산더처럼 왕 (feat. GRAY)</string>
+			<key>Artist</key><string>해쉬스완</string>
+			<key>Album Artist</key><string>해쉬스완</string>
+			<key>Album</key><string>Alexandrite</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>7325704</integer>
+			<key>Total Time</key><integer>206981</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2018-07-29T15:00:19Z</date>
+			<key>Date Added</key><date>2018-07-29T15:00:19Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2018-02-21T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Alexandrite</string>
+			<key>Sort Artist</key><string>해쉬스완</string>
+			<key>Sort Name</key><string>알렉산더처럼 왕 (feat. GRAY)</string>
+			<key>Persistent ID</key><string>92553D2CE9BA0637</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>509</key>
+		<dict>
+			<key>Track ID</key><integer>509</integer>
+			<key>Name</key><string>So Lost</string>
+			<key>Artist</key><string>Ady Suleiman</string>
+			<key>Album Artist</key><string>Ady Suleiman</string>
+			<key>Composer</key><string>Ady Suleiman</string>
+			<key>Album</key><string>This Is My EP</string>
+			<key>Genre</key><string>Singer/Songwriter</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>8376029</integer>
+			<key>Total Time</key><integer>236184</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2018-07-29T15:04:43Z</date>
+			<key>Date Added</key><date>2018-07-29T15:04:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-08-01T11:51:41Z</date>
+			<key>Release Date</key><date>2015-02-06T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>This Is My EP</string>
+			<key>Sort Artist</key><string>Ady Suleiman</string>
+			<key>Sort Name</key><string>So Lost</string>
+			<key>Persistent ID</key><string>4FB0F7246435A357</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>511</key>
+		<dict>
+			<key>Track ID</key><integer>511</integer>
+			<key>Name</key><string>Need Somebody To Love</string>
+			<key>Artist</key><string>Ady Suleiman</string>
+			<key>Album Artist</key><string>Ady Suleiman</string>
+			<key>Album</key><string>Memories</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>11324746</integer>
+			<key>Total Time</key><integer>326573</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2018-07-29T15:05:01Z</date>
+			<key>Date Added</key><date>2018-07-29T15:05:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3616258122</integer>
+			<key>Play Date UTC</key><date>2018-08-04T11:08:42Z</date>
+			<key>Release Date</key><date>2018-02-23T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Memories</string>
+			<key>Sort Artist</key><string>Ady Suleiman</string>
+			<key>Sort Name</key><string>Need Somebody To Love</string>
+			<key>Persistent ID</key><string>F1F8878F1F14875B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>513</key>
+		<dict>
+			<key>Track ID</key><integer>513</integer>
+			<key>Name</key><string>I Will Follow You</string>
+			<key>Artist</key><string>Toulouse</string>
+			<key>Album Artist</key><string>Toulouse</string>
+			<key>Composer</key><string>Jacques Plante, Franck Pourcel, Paul Mauriat, Arthur Altman &#38; Norman Gimbel</string>
+			<key>Album</key><string>I Will Follow You - Single</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>5695039</integer>
+			<key>Total Time</key><integer>159440</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2018-07-29T15:05:31Z</date>
+			<key>Date Added</key><date>2018-07-29T15:05:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3616174827</integer>
+			<key>Play Date UTC</key><date>2018-08-03T12:00:27Z</date>
+			<key>Release Date</key><date>2016-09-23T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>I Will Follow You - Single</string>
+			<key>Sort Artist</key><string>Toulouse</string>
+			<key>Sort Name</key><string>I Will Follow You</string>
+			<key>Persistent ID</key><string>149474E42B49FA60</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>515</key>
+		<dict>
+			<key>Track ID</key><integer>515</integer>
+			<key>Name</key><string>Audio (feat. Sia, Diplo &#38; Labrinth)</string>
+			<key>Artist</key><string>LSD</string>
+			<key>Album Artist</key><string>LSD</string>
+			<key>Composer</key><string>Thomas Wesley Pentz, Philip Meckseper, Henry Agincourt Allen, Timothy Mckenzie &#38; Sia Furler</string>
+			<key>Album</key><string>Audio (feat. Sia, Diplo &#38; Labrinth) - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>7395438</integer>
+			<key>Total Time</key><integer>203400</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2018-07-29T15:10:24Z</date>
+			<key>Date Added</key><date>2018-07-29T15:10:24Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3616132444</integer>
+			<key>Play Date UTC</key><date>2018-08-03T00:14:04Z</date>
+			<key>Release Date</key><date>2018-05-10T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Audio (feat. Sia, Diplo &#38; Labrinth) - Single</string>
+			<key>Sort Artist</key><string>LSD</string>
+			<key>Sort Name</key><string>Audio (feat. Sia, Diplo &#38; Labrinth)</string>
+			<key>Persistent ID</key><string>C2375B0B2E132B68</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>517</key>
+		<dict>
+			<key>Track ID</key><integer>517</integer>
+			<key>Name</key><string>Titanium (feat. Sia)</string>
+			<key>Artist</key><string>David Guetta</string>
+			<key>Album Artist</key><string>David Guetta</string>
+			<key>Composer</key><string>David Guetta, Giorgio H. Tuinfort, Nick van de Wall &#38; Sia Furler</string>
+			<key>Album</key><string>Nothing But the Beat Ultimate</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>8955232</integer>
+			<key>Total Time</key><integer>245053</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2018-07-29T15:11:04Z</date>
+			<key>Date Added</key><date>2018-07-29T15:11:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3616132048</integer>
+			<key>Play Date UTC</key><date>2018-08-03T00:07:28Z</date>
+			<key>Release Date</key><date>2011-08-08T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Nothing But the Beat Ultimate</string>
+			<key>Sort Artist</key><string>David Guetta</string>
+			<key>Sort Name</key><string>Titanium (feat. Sia)</string>
+			<key>Persistent ID</key><string>70B51DAAD67F13C5</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>519</key>
+		<dict>
+			<key>Track ID</key><integer>519</integer>
+			<key>Name</key><string>Chandelier</string>
+			<key>Artist</key><string>Sia</string>
+			<key>Album Artist</key><string>Sia</string>
+			<key>Composer</key><string>Sia Furler &#38; Jesse Shatkin</string>
+			<key>Album</key><string>1000 Forms of Fear</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>8058912</integer>
+			<key>Total Time</key><integer>216120</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2018-07-29T15:11:06Z</date>
+			<key>Date Added</key><date>2018-07-29T15:11:06Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3616069107</integer>
+			<key>Play Date UTC</key><date>2018-08-02T06:38:27Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-08-02T10:28:59Z</date>
+			<key>Release Date</key><date>2014-03-17T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>1000 Forms of Fear</string>
+			<key>Sort Artist</key><string>Sia</string>
+			<key>Sort Name</key><string>Chandelier</string>
+			<key>Persistent ID</key><string>E2993B4FE0002302</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>521</key>
+		<dict>
+			<key>Track ID</key><integer>521</integer>
+			<key>Name</key><string>Stand By Me</string>
+			<key>Artist</key><string>Ben E. King</string>
+			<key>Album Artist</key><string>Ben E. King</string>
+			<key>Composer</key><string>Ben E. King, JERRY LEIBER, Mike Stoller, Ben E. King, JERRY LEIBER &#38; Mike Stoller</string>
+			<key>Album</key><string>The Very Best of Ben E. King</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>6471935</integer>
+			<key>Total Time</key><integer>174800</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>1961</integer>
+			<key>Date Modified</key><date>2018-07-29T15:13:21Z</date>
+			<key>Date Added</key><date>2018-07-29T15:13:21Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3615957595</integer>
+			<key>Play Date UTC</key><date>2018-07-31T23:39:55Z</date>
+			<key>Release Date</key><date>1961-04-01T08:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>The Very Best of Ben E. King</string>
+			<key>Sort Artist</key><string>Ben E. King</string>
+			<key>Sort Name</key><string>Stand By Me</string>
+			<key>Persistent ID</key><string>0D778C6DFFC4A392</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>523</key>
+		<dict>
+			<key>Track ID</key><integer>523</integer>
+			<key>Name</key><string>Piano Man</string>
+			<key>Artist</key><string>Billy Joel</string>
+			<key>Album Artist</key><string>Billy Joel</string>
+			<key>Composer</key><string>Billy Joel</string>
+			<key>Album</key><string>Piano Man</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>12028041</integer>
+			<key>Total Time</key><integer>339291</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1973</integer>
+			<key>Date Modified</key><date>2018-07-29T15:13:34Z</date>
+			<key>Date Added</key><date>2018-07-29T15:13:34Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1973-11-09T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Piano Man</string>
+			<key>Sort Artist</key><string>Billy Joel</string>
+			<key>Sort Name</key><string>Piano Man</string>
+			<key>Persistent ID</key><string>4D0DFDD02CDA7F7E</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>525</key>
+		<dict>
+			<key>Track ID</key><integer>525</integer>
+			<key>Name</key><string>All Falls Down</string>
+			<key>Artist</key><string>Alan Walker, Noah Cyrus &#38; Digital Farm Animals</string>
+			<key>Album Artist</key><string>Alan Walker, Noah Cyrus &#38; Digital Farm Animals</string>
+			<key>Composer</key><string>Alan Walker, Anders Froen, Pablo Bowman, Nick Gale, Rick Boardman &#38; Sarah Blanchard</string>
+			<key>Album</key><string>All Falls Down - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>7166705</integer>
+			<key>Total Time</key><integer>199111</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2018-07-31T14:56:58Z</date>
+			<key>Date Added</key><date>2018-07-31T14:56:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3616227039</integer>
+			<key>Play Date UTC</key><date>2018-08-04T02:30:39Z</date>
+			<key>Release Date</key><date>2017-10-27T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>All Falls Down - Single</string>
+			<key>Sort Artist</key><string>Alan Walker, Noah Cyrus &#38; Digital Farm Animals</string>
+			<key>Sort Name</key><string>All Falls Down</string>
+			<key>Persistent ID</key><string>86C0497167B75EF3</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>527</key>
+		<dict>
+			<key>Track ID</key><integer>527</integer>
+			<key>Name</key><string>SoulMate (feat. IU)</string>
+			<key>Artist</key><string>ZICO</string>
+			<key>Album Artist</key><string>ZICO</string>
+			<key>Composer</key><string>ZICO &#38; Pop.time</string>
+			<key>Album</key><string>SoulMate (feat. IU) - Single</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>8272788</integer>
+			<key>Total Time</key><integer>219391</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2018-07-31T14:58:28Z</date>
+			<key>Date Added</key><date>2018-07-31T14:58:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3616163852</integer>
+			<key>Play Date UTC</key><date>2018-08-03T08:57:32Z</date>
+			<key>Release Date</key><date>2018-07-31T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>SoulMate (feat. IU) - Single</string>
+			<key>Sort Artist</key><string>ZICO</string>
+			<key>Sort Name</key><string>SoulMate (feat. IU)</string>
+			<key>Persistent ID</key><string>3AAADB92323EED7C</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>529</key>
+		<dict>
+			<key>Track ID</key><integer>529</integer>
+			<key>Name</key><string>첫눈처럼 너에게 가겠다</string>
+			<key>Artist</key><string>에일리</string>
+			<key>Album Artist</key><string>에일리</string>
+			<key>Album</key><string>도깨비 (Original Television Soundtrack), Pt. 9 - Single</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>8158050</integer>
+			<key>Total Time</key><integer>229678</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2018-07-31T15:00:37Z</date>
+			<key>Date Added</key><date>2018-07-31T15:00:37Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3616175057</integer>
+			<key>Play Date UTC</key><date>2018-08-03T12:04:17Z</date>
+			<key>Release Date</key><date>2017-01-07T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>도깨비 (Original Television Soundtrack), Pt. 9 - Single</string>
+			<key>Sort Artist</key><string>에일리</string>
+			<key>Sort Name</key><string>첫눈처럼 너에게 가겠다</string>
+			<key>Persistent ID</key><string>D721A39CF995B947</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>531</key>
+		<dict>
+			<key>Track ID</key><integer>531</integer>
+			<key>Name</key><string>The Time Goes On</string>
+			<key>Artist</key><string>비와이</string>
+			<key>Album Artist</key><string>비와이</string>
+			<key>Album</key><string>Time Travel</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>11092615</integer>
+			<key>Total Time</key><integer>322679</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2018-07-31T15:02:50Z</date>
+			<key>Date Added</key><date>2018-07-31T15:02:50Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3616131803</integer>
+			<key>Play Date UTC</key><date>2018-08-03T00:03:23Z</date>
+			<key>Release Date</key><date>2015-03-10T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Time Travel</string>
+			<key>Sort Artist</key><string>비와이</string>
+			<key>Sort Name</key><string>The Time Goes On</string>
+			<key>Persistent ID</key><string>3BF1B1F240CE1DF6</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>533</key>
+		<dict>
+			<key>Track ID</key><integer>533</integer>
+			<key>Name</key><string>잠 못드는 밤 (feat. 펀치 Punch)</string>
+			<key>Artist</key><string>Crush</string>
+			<key>Album Artist</key><string>Crush</string>
+			<key>Album</key><string>괜찮아 사랑이야 (Original Television Soundtrack), Pt. 3 - Single</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>8385411</integer>
+			<key>Total Time</key><integer>237539</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2018-07-31T15:04:52Z</date>
+			<key>Date Added</key><date>2018-07-31T15:04:52Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-08-06T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>괜찮아 사랑이야 (Original Television Soundtrack), Pt. 3 - Single</string>
+			<key>Sort Artist</key><string>Crush</string>
+			<key>Sort Name</key><string>잠 못드는 밤 (feat. 펀치 Punch)</string>
+			<key>Persistent ID</key><string>FE00C27129CB3D5E</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>음악</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>659</integer>
+			<key>Playlist Persistent ID</key><string>200B2007ED49FD06</string>
+			<key>Distinguished Kind</key><integer>4</integer>
+			<key>Music</key><true/>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>533</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>531</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>529</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>527</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>525</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>523</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>521</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>519</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>517</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>515</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>513</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>511</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>509</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>507</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>505</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>503</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>501</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>499</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>497</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>495</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>493</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>491</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>489</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>487</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>485</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>483</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>481</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>479</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>477</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>475</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>473</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>471</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>469</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>467</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>465</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>463</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>461</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>459</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>457</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>455</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>453</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>451</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>449</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>447</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>445</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>443</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>441</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>439</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>437</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>435</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>433</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>431</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>429</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>425</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>427</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>423</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>421</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>419</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>417</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>415</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>413</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>411</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>409</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>407</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>405</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>403</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>401</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>399</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>397</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>395</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>393</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>391</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>389</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>387</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>385</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>383</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>381</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>379</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>377</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>375</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>371</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>369</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>373</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>367</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>365</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>363</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>361</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>359</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>357</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>355</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>353</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>351</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

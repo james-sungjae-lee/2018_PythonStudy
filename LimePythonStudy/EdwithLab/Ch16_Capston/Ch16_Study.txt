@@ -1,0 +1,17 @@
+
+Part 1 : Data Mining
+
+Personal Data Mining
+Data Source -> Gather -> Raw / Clean Data
+Clean Data -> Visualize / Analysis
+
+Raw Data 와 Clean Data 의 구분
+> Raw 데이터는 가져온 데이터와 그렇지 않은 데이터를 구분하기 위함
+> Clean 데이터는 가져온 데이터를 기반으로 분석을 하기 위함
+
+파이썬은 개인적 데이터 마이닝에 정말 많이 사용된다
+
+Google Geodata -> geoload.py -> geodata.sqlite
+
+
+Part 2 : 
